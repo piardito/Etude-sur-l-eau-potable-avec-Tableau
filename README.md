@@ -19,4 +19,4 @@ J'ai utilisé certains indicateurs qui sont:
 J'ai utilisé aussi ces indicateurs au niveau nationale pour trois domaines d'expertises qui sont :
 1. Créations de services (graphique combinant le taux d’accès à l’eau potable et le taux de population urbaine)
 2. Modernisation des services (graphique qui combine le taux de services “basiques” et le taux d’infrastructures de qualité)
-3. Consulting(graphique combinant l’efficacité de la politique gouvernementale d’accès à l’eau (politique efficace = taux de mortalité faible + bon accès des habitants aux services d’eau potable) ainsi que la stabilité politique)
+3. Consulting (graphique combinant l’efficacité de la politique gouvernementale d’accès à l’eau (politique efficace = taux de mortalité faible + bon accès des habitants aux services d’eau potable) ainsi que la stabilité politique)
